@@ -1,0 +1,9 @@
+/* Reset */
+@import "C:\Users\junio\OneDrive\Dokumenty\GitHub\na-zakrecie\na-zakrecie\src\css\reset.css";
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@0,75..100,300..800;1,75..100,300..800&display=swap');
+
+/* Pages */
+@import "C:\Users\junio\OneDrive\Dokumenty\GitHub\na-zakrecie\na-zakrecie\src\scss\Home.scss";
+@import "C:\Users\junio\OneDrive\Dokumenty\GitHub\na-zakrecie\na-zakrecie\src\scss\NaZakrecie.scss";
